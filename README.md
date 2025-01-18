@@ -2,7 +2,7 @@
 
 ## Project Description
 
-This project is a simple e-commerce application built with Django, a high-level Python web framework. The platform allows users to buy variety and different category of products, write and publish posts, and comment on posts written by others. It also features an admin dashboard where users can publish their products.
+##This project is a simple e-commerce application built with Django, a high-level Python web framework. The platform allows users to buy variety and different category of products, write and publish posts, and comment on posts written by others. It also features an admin dashboard where users can publish their products.
 
 ## Features
 
@@ -76,6 +76,3 @@ To run this project on your local machine, follow these steps:
 
 6. Open your web browser and go to http://127.0.0.1:8000/.
 
-## Credits
-
-This project was developed by me and inspired by CodeWithHarry.com
